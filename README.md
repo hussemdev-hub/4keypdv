@@ -1,6 +1,6 @@
 # 4keypdv
 
-Automação de alteração de senha PDV e envio de carga via Selenium + Tkinter.
+Aplicação desktop desenvolvida em Python para automação de operações no MaxPOS, incluindo alteração de senhas PDV, envio de carga, processamento em lote, histórico de usuários e integração via Selenium.
 
 ## Instalação (Linux)
 
